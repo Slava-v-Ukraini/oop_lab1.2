@@ -24,7 +24,7 @@
         <mxCell id="fdiV-WXQC0dSZiMpGn5z-4" value="&lt;div style=&quot;padding-top: 0px; padding-bottom: 80px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;lab_1.2.cpp&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="290" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="fdiV-WXQC0dSZiMpGn5z-5" value="Kvadrat::Display()&lt;div&gt;Kvadrat::Read()&lt;/div&gt;&lt;div&gt;Kvadrat::Side()&lt;/div&gt;&lt;div&gt;Kvadrat::Square()&lt;/div&gt;&lt;div&gt;Kvadrat::Perymetr()&lt;/div&gt;&lt;div&gt;Kvadrat::SetX1(double _x1)&lt;/div&gt;&lt;div&gt;Kvadrat::SetY1(double _y1)&lt;/div&gt;&lt;div&gt;Kvadrat::SetX2(double _x2)&lt;/div&gt;&lt;div&gt;Kvadrat::SetY2(double _y2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fdiV-WXQC0dSZiMpGn5z-5" value="&lt;div&gt;Kvadrat::Init(...)&lt;/div&gt;Kvadrat::Display()&lt;div&gt;Kvadrat::Read()&lt;/div&gt;&lt;div&gt;Kvadrat::Side()&lt;/div&gt;&lt;div&gt;Kvadrat::Square()&lt;/div&gt;&lt;div&gt;Kvadrat::Perymetr()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="170" height="150" as="geometry" />
         </mxCell>
       </root>
